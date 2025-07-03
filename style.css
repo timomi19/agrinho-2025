@@ -8,6 +8,8 @@ body{
     font-size: 30px;
     background-color: #215A23;
     text-align: center;
+    margin-bottom: 100px;
+    border: 2px solid black;
 }
 .titulo{
     background-color: #8cd18c;
@@ -17,6 +19,8 @@ body{
     height: 200px;
     font-size: 20px;
     padding: 20px;
+    margin-bottom:100px;
+    border: 2px solid black;
 }
 .texto{
      background-color: #8cd18c;
@@ -26,6 +30,8 @@ body{
     height: 200px;
     font-size: 15px;
     padding: 20px;
+    margin-bottom:100px;
+    border: 2px solid black;
 }
 .ancoragem{
         background-color: #8cd18c;
@@ -35,6 +41,8 @@ body{
     height:150px;
     font-size: 15px;
     padding: 20px;
+    margin-bottom:100px;
+    border: 2px solid black;
 }
 
 .aradoprimitivo{
@@ -45,6 +53,8 @@ body{
     height: 200px;
     font-size: 15px;
     padding: 20px;
+    margin-bottom:100px;
+    border: 2px solid black;
 }
 .semeadora{
         background-color: #8cd18c;
@@ -54,6 +64,8 @@ body{
     height: 200px;
     font-size: 15px;
     padding: 20px;
+    margin-bottom:100px;
+    border: 2px solid black;
 }
 .semeadora2{
         background-color: #8cd18c;
@@ -63,6 +75,8 @@ body{
     height: 200px;
     font-size: 15px;
     padding: 20px;
+    margin-bottom:100px;
+    border: 2px solid black;
 }
 
 .primeirotrator{
@@ -73,6 +87,8 @@ body{
     height: 200px;
     font-size: 15px;
     padding: 20px;
+    margin-bottom:100px;
+    border: 2px solid black;
 }
 
 .criaçãoprimeirotrator{
@@ -83,6 +99,8 @@ body{
     height: 200px;
     font-size: 15px;
     padding: 20px;
+    margin-bottom:100px;
+    border: 2px solid black;
 }
 
 .tratormoderno{
@@ -93,4 +111,6 @@ body{
     height: 200px;
     font-size: 15px;
     padding: 20px;
+    margin-bottom:100px;
+    border: 2px solid black;
 }
